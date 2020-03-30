@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pendaftaran</string>
+    <string name="jdl">Form Pendaftaran</string>
+    <string name="jdl2">Login</string>
+    <string name="name">Nama</string>
+    <string name="address">Alamat</string>
+    <string name="telp">No. Tlp</string>
+    <string name="btn">Daftar</string>
+    <string name="hsl">Nih Tampilannya</string>
+    <string name="hsl1">Tampilan Hasil Menu 2</string>
+    <string name="hsl2">Tampilan Hasil Menu 3</string>
+    <string name="lgn">Login</string>
+    <string name="un">Username</string>
+    <string name="pw">Password</string>
+</resources>
